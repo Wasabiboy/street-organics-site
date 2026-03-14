@@ -145,7 +145,7 @@ const Hero = () => {
         </div>
         <h1 className="text-[2.4rem] md:text-[4.8rem] font-black text-white mb-6 leading-tight">
           STREET ORGANICS <br />
-          <span className="text-emerald-400 italic font-serif">REAL FOOR FOR</span>
+          <span className="text-emerald-400 italic font-serif">REAL FOOD FOR</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-200 mb-10 max-w-2xl mx-auto leading-relaxed">
           Serving Takapuna with high-quality, organic meals that fuel your body. From cold-pressed juices to wholesome bowls, every bite is a step toward wellness.
